@@ -1,6 +1,6 @@
 h1 {
-color: white;
+    color:red;
 }
-h1:hover {
-    cursor: crosshair;
+h1:hover{
+    cursor: pointer;
 }
